@@ -15,7 +15,7 @@ namespace usuariotwitter
 
         public void Publicar (string mensaje)
         {
-            Console.WriteLine($"Este usuario: {nombre} acaba de publicar lo siguiente {mensaje}");
+            Console.WriteLine($" usuario: {nombre} acaba de publicar lo siguiente {mensaje}");
         }
 
         public void verPerfil()
